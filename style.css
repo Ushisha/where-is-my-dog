@@ -9,6 +9,9 @@ body {
   color: #594a4e;
   background-color: lightblue;
 }
+h1 {
+  font-size: 2rem;
+}
 
 .box1 {
   height: 100vh;
