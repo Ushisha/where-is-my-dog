@@ -4,11 +4,11 @@
 
 ![screenshot](./images/screenshot1.png)
 
-## reference
+### Useful resources
 
-https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
+- [getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) 
+- [pageYOffset](https://developer.mozilla.org/en-US/docs/Web/API/Window/pageYOffset)
 
-https://developer.mozilla.org/en-US/docs/Web/API/Window/pageYOffset
 
 ## acknowledgement
   Illustration by
