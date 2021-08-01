@@ -4,6 +4,10 @@
 
 ![screenshot](./images/screenshot1.png)
 
+### Link
+
+- Live Site URL: [https://ushisha.github.io/where-is-my-dog/](https://ushisha.github.io/where-is-my-dog/)
+
 ### Useful resources
 
 - [getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) 
